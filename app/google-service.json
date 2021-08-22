@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738715501275",
+    "project_id": "agorasupershop-f060c",
+    "storage_bucket": "agorasupershop-f060c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738715501275:android:400800e2e0b175b65482fe",
+        "android_client_info": {
+          "package_name": "com.android.agorasuperstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738715501275-eh058gf3k2hmks9afe34ntc87vijs9fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZPzGyQ8Wj4VIzixEbyOP-rKRvE6fAPq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738715501275-eh058gf3k2hmks9afe34ntc87vijs9fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
